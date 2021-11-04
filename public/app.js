@@ -64,3 +64,5 @@ auth.onAuthStateChanged(user => {
     userDetails.innerHTML = ``;
   }
 });
+
+console.log('hosting yay');
